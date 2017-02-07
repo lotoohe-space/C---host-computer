@@ -1,0 +1,13 @@
+E:\vs2015\Z001上位机\Z001上位机\bin\Debug\Z001上位机.exe.config
+E:\vs2015\Z001上位机\Z001上位机\bin\Debug\Z001上位机.exe.manifest
+E:\vs2015\Z001上位机\Z001上位机\bin\Debug\Z001上位机.application
+E:\vs2015\Z001上位机\Z001上位机\bin\Debug\Z001上位机.exe
+E:\vs2015\Z001上位机\Z001上位机\bin\Debug\Z001上位机.pdb
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.Main.resources
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.Properties.Resources.resources
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.csproj.GenerateResource.Cache
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.exe.manifest
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.application
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.exe
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.pdb
+E:\vs2015\Z001上位机\Z001上位机\obj\Debug\Z001上位机.csprojResolveAssemblyReference.cache
